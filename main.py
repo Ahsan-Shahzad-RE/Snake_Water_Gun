@@ -11,7 +11,7 @@ computer = random.choice([-1 , 0 , 1])
 your_string = input("Enter your choice :")
 your_dict = {"s" : 1 , "w" : -1 , "g" : 0}
 
-reverse_dict = {1 : "snakes" , -1 : "water" , 0 : "gun"}
+reverse_dict = {1 : "snake" , -1 : "water" , 0 : "gun"}
 
 you = your_dict[your_string]
 
